@@ -33,7 +33,7 @@ Although it has three to four fewer points than the traditional convolutional UN
 
 
 ## Acknowledgements
-Our repository uses KANConv from [here](https://github.com/StarostinV/convkan) and is inspired by these repositories ([Convolutional-KANs](https://github.com/AntonioTepsich/Convolutional-KANs),[torch-conv-kan](https://github.com/IvanDrokin/torch-conv-kan)). We would like to express our gratitude for their open research and cutting-edge exploration.
+Our repository uses KANConv from [here](https://github.com/StarostinV/convkan) and is inspired by these repositories ([pykan](https://github.com/KindXiaoming/pykan),[efficient-kan](https://github.com/Blealtan/efficient-kan),[Convolutional-KANs](https://github.com/AntonioTepsich/Convolutional-KANs),[torch-conv-kan](https://github.com/IvanDrokin/torch-conv-kan)). We would like to express our gratitude for their open research and cutting-edge exploration.
 
 
 
