@@ -32,7 +32,8 @@ Although it has three to four fewer points than the traditional convolutional UN
 <img src="kanconv_results/25.jpg" alt="kanconv_results/25.jpg" width="150" > <img src="kanconv_results/26.jpg" alt="kanconv_results/26.jpg" width="150" > <img src="kanconv_results/27.jpg" alt="kanconv_results/27.jpg" width="150" > <img src="kanconv_results/28.jpg" alt="kanconv_results/28.jpg" width="150" > <img src="kanconv_results/29.jpg" alt="kanconv_results/29.jpg" width="150" >
 
 
-
+## Acknowledgements
+Our repository uses KANConv from [here](https://github.com/StarostinV/convkan) and is inspired by these repositories ([Convolutional-KANs](https://github.com/AntonioTepsich/Convolutional-KANs),[torch-conv-kan](https://github.com/IvanDrokin/torch-conv-kan)). We would like to express our gratitude for their open research and cutting-edge exploration.
 
 
 
