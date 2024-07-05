@@ -24,6 +24,17 @@ We conducted comparative experiments on the ISBI dataset (the dataset is availab
 
 Although it has three to four fewer points than the traditional convolutional UNet, we think that UNet with Bottleneck KANConv has achieved quite good results, and we will make more improvements to it in the future.Below we compare several pictures to visualize the segmentation results of our UNet.
 
+#### UNet with Common Conv with ReLU
+<img src="conv_results/25.jpg" alt="conv_results/25.jpg" width="180" > <img src="conv_results/26.jpg" alt="conv_results/26.jpg" width="180" > <img src="conv_results/27.jpg" alt="conv_results/27.jpg" width="180" >
+<img src="conv_results/28.jpg" alt="conv_results/28.jpg" width="180" > <img src="conv_results/29.jpg" alt="conv_results/29.jpg" width="180" >
+
+#### UNet with Bottleneck KANConv without ReLU
+<img src="kanconv_results/25.jpg" alt="kanconv_results/25.jpg" width="180" > <img src="kanconv_results/26.jpg" alt="kanconv_results/26.jpg" width="180" > <img src="kanconv_results/27.jpg" alt="kanconv_results/27.jpg" width="180" > <img src="kanconv_results/28.jpg" alt="kanconv_results/28.jpg" width="180" > <img src="kanconv_results/29.jpg" alt="kanconv_results/29.jpg" width="180" >
+
+
+
+
+
 
 
 
